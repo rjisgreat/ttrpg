@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e22e3aaaa4cb7432fb7bc1ed09c2b1a9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - txt_damage: {fileID: 10200000, guid: 1e4684591677c4e618644af74878cb03, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
